@@ -4,7 +4,9 @@
 
 A rapid physical prototype developed for a robotics-and-automation hackathon challenge in aerospace manufacturing. The project explored a safer, more repeatable way to handle the post-build steps around a laser powder bed fusion (LPBF) cell: opening the build chamber, removing loose powder, and extracting a printed part.
 
-![Team TARS prototype](media/images/01-prototype-overview.jpg)
+![Vamsikrishna with the Team TARS prototype at Devils Invent](media/images/05-vamsikrishna-with-prototype.jpg)
+
+*Vamsikrishna with the completed Team TARS prototype at the event.*
 
 [Watch or download the 34-second bench demonstration](media/videos/lpbf-post-processing-demo-preview.mp4) *(compressed preview; audio removed)*
 
@@ -24,8 +26,6 @@ The evidence captured during the event shows:
 - Actuation of the handling mechanism in the supplied bench demonstration.
 
 ![Close view of the linear motion assembly](media/images/02-axis-assembly.jpg)
-
-![Prototype in the mock work cell](media/images/03-demo-cell.jpg)
 
 ## Proposed LPBF post-processing flow
 
@@ -52,8 +52,6 @@ See [evidence and limitations](docs/evidence-and-limitations.md) for the boundar
 - **Soham Karandikar** — Mechanical Engineering
 
 ![Team build session](media/images/04-team-build-session.jpg)
-
-![Vamsikrishna with the finished prototype](media/images/05-vamsikrishna-with-prototype.jpg)
 
 ## Event evidence
 

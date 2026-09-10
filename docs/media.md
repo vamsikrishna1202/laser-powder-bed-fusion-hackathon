@@ -8,7 +8,7 @@ All media was supplied by Vamsikrishna from the April 2025 build and hackathon p
 | `media/images/02-axis-assembly.jpg` | `IMG-20250406-WA0020.jpg` | Close view of the horizontal lead-screw, stepper, and vertical-axis assembly. |
 | `media/images/03-demo-cell.jpg` | `IMG-20250406-WA0016.jpg` | Prototype positioned in the mock work cell. |
 | `media/images/04-team-build-session.jpg` | `IMG-20250406-WA0052.jpg` | Team building and integrating the prototype. |
-| `media/images/05-vamsikrishna-with-prototype.jpg` | `IMG-20250406-WA0024.jpg` | Team TARS members holding the completed prototype in front of the Honeywell event backdrop; first photo in the README. |
+| `media/images/05-team-tars-honeywell-event.jpg` | `IMG-20250406-WA0024.jpg` | Team TARS members holding the completed prototype in front of the Honeywell event backdrop; first photo in the README. |
 | `media/images/06-event-cover.png` | `Screenshot 2026-06-23 213753.png` | Event cover: ASU Devils Invent, *Aerospace Factory to the Future*, sponsored by Honeywell. |
 | `media/images/07-challenge-brief.png` | `Screenshot 2026-06-23 213722.png` | Robotics and automation problem statement. |
 | `media/images/08-dashboard-prototype.png` | `ed6a8999-caa7-4a09-ae80-5e133aa463b8.png` | Local Robot Vision & Sensor Dashboard prototype with camera view and status cards. |

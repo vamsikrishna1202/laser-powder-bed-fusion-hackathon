@@ -4,7 +4,7 @@
 
 A rapid physical prototype developed for a robotics-and-automation hackathon challenge in aerospace manufacturing. The project explored a safer, more repeatable way to handle the post-build steps around a laser powder bed fusion (LPBF) cell: opening the build chamber, removing loose powder, and extracting a printed part.
 
-![Team TARS members holding the completed prototype at Devils Invent](media/images/05-vamsikrishna-with-prototype.jpg)
+![Team TARS members holding the completed prototype at Devils Invent](media/images/05-team-tars-honeywell-event.jpg)
 
 *Team TARS members with the completed prototype at ASU Devils Invent, sponsored by Honeywell.*
 

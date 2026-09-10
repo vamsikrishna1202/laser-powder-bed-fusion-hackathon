@@ -36,7 +36,15 @@ The team presentation proposed this sequence:
 3. Extract the printed part using a gripper.
 4. Monitor the workflow through computer vision and a dashboard concept.
 
-The physical prototype was an early demonstration of the handling mechanism. The powder-removal system, computer vision, dashboard, production safety systems, and industrial LPBF equipment were **concept elements**, not validated production capabilities of this prototype.
+The physical prototype was an early demonstration of the handling mechanism. The powder-removal system, computer vision, production safety systems, and industrial LPBF equipment were **concept elements**, not validated production capabilities of this prototype. A dashboard UI prototype is documented below, but its end-to-end live integration was not verified in the supplied archive.
+
+## Dashboard prototype
+
+The team also created a local **Robot Vision & Sensor Dashboard**. The supplied screenshot shows a camera view alongside status cards for the door, suction, temperature, and vacuum pressure. At the instant captured, the interface displayed `Door Status: Closed`, `Suction Status: Active`, `Temperature: 25.6 °C`, and `Vacuum Pressure: 92.2 kPa`.
+
+![Robot Vision & Sensor Dashboard prototype](media/images/08-dashboard-prototype.png)
+
+This screenshot establishes that a dashboard UI prototype was built. It does not by itself verify the data source, sensor calibration, telemetry timing, or live end-to-end hardware integration.
 
 ## Engineering scope
 

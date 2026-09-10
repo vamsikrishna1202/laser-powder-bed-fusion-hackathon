@@ -11,6 +11,7 @@ All media was supplied by Vamsikrishna from the April 2025 build and hackathon p
 | `media/images/05-vamsikrishna-with-prototype.jpg` | `IMG-20250406-WA0033.jpg` | Vamsikrishna with the completed prototype at the event. |
 | `media/images/06-event-cover.png` | `Screenshot 2026-06-23 213753.png` | Event cover: ASU Devils Invent, *Aerospace Factory to the Future*, sponsored by Honeywell. |
 | `media/images/07-challenge-brief.png` | `Screenshot 2026-06-23 213722.png` | Robotics and automation problem statement. |
+| `media/images/08-dashboard-prototype.png` | `ed6a8999-caa7-4a09-ae80-5e133aa463b8.png` | Local Robot Vision & Sensor Dashboard prototype with camera view and status cards. |
 | `media/videos/lpbf-post-processing-demo-preview.mp4` | `VID-20250406-WA0039.mp4` | Compressed 34-second bench demonstration of the handling mechanism; audio removed. |
 
 The original files retain their source capture names in the user’s archive. Repository names were shortened only for clarity.
